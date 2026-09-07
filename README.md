@@ -1,13 +1,14 @@
-La estructura actual de las carpetas: 
+```text
+La estructura de las carpetas actual:
 
 T1_DMII/
 ├── Molecular Classification of Cancer/
 │   ├── codigo_genes.ipynb
-│   └── data/                                    # train, independent y actual
+│   └── data/                                # train, independent y actual
 │
 └── Tomato Leaves/
     ├── codigo_tomates.ipynb
-    ├── data/
+    └── data/
         ├── plantvillage/
         │   ├── 5 cross-validation/
         │   │   └── Cross-validation[1-5]/       # 5 folds para validación cruzada
@@ -22,3 +23,4 @@ T1_DMII/
             └── Preprocessed data/
                 ├── Test/                        # 6 clases
                 └── Train/                       # 6 clases
+```
