@@ -1,0 +1,11 @@
+# Entorno virtual
+.venv/
+venv/
+ENV/
+
+# Carpetas de datos 
+**/data/
+
+# Archivos de datos y documentos (ignora todos los CSV y PDF)
+*.csv
+*.pdf
