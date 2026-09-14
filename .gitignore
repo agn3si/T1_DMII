@@ -9,3 +9,4 @@ ENV/
 # Archivos de datos y documentos (ignora todos los CSV y PDF)
 *.csv
 *.pdf
+*.npy
